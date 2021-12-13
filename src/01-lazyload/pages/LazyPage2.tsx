@@ -1,5 +1,3 @@
-import React from 'react'
-
 export const LazyPage2 = () => {
     return (
         <h1>
@@ -7,3 +5,5 @@ export const LazyPage2 = () => {
         </h1>
     )
 }
+
+export default LazyPage2;
